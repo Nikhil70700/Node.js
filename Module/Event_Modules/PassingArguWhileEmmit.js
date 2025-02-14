@@ -2,8 +2,7 @@
 const EventEmitter=require('events');
 
 //Importing Chalk
-// const chalk=require('chalk');
-import chalk from 'chalk'; 
+const chalk=require('chalk');
 
 
 
@@ -22,11 +21,4 @@ emitter.emit("greet","Nikhil Pandey","Software Engineer");
 
 
 
-
-
-emitter.on("myData", (args) => {
-    console.log(`Hello! ${chalk.green(args.name)} You Are a ${args.profession} at ${args.companyName} Right!`);
-});
-
-emitter.emit("myData", { name: "Nikhil", profession: "Software Engineer", companyName: "Microsoft" });
 
