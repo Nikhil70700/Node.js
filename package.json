@@ -1,7 +1,18 @@
 {
-  "type": "module",
   "dependencies": {
     "chalk": "^5.4.1",
+    "nodemon": "^3.1.9",
     "ping": "^0.4.4"
-  }
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NikhilPandey",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }

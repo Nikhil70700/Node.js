@@ -7,7 +7,7 @@ if(req.url==="/"){
 }
 if(req.url==="/source-code"){
     res.setHeader("Content-Type","text/html");
-    res.write("<h1>here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text</h1>");
+    res.write("<h1>here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text Nikhil Pandey</h1>");
     res.end();
 }
 
