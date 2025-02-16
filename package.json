@@ -42,5 +42,8 @@
   },
   "author": "Nikhil",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.20.1"
+  }
 }

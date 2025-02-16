@@ -6,4 +6,4 @@
 // • There are alternative Node.js package managers registry like JSR, which we will discuss in future.
 //!• Fun facts:
 // • npm shouldn’t be written in capitalized form unless you have everything as capital.
-// • npm doesn’t stand for Node Package Manager even though many people refer to it as that. It is a recursive bacronymic abbreviation for "npm is not a acronym"
+// • npm doesn’t stand for Node Package Manager even though many people refer to it as that. It is a recursive bacronymic abbreviation for "npm is not a package manager".
